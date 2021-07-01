@@ -322,5 +322,11 @@ body {
 				max-width: 48%;
 				min-width: 122px;
 		}
+	.footer .btn {
+				font-size: 38px;
+				line-height: 45px;
+			
+			
+		}
 }
 /* Extra small: 0px (320px) - 575px */
