@@ -52,6 +52,7 @@ body {
 		font-size: 70px;
 		font-weight: 700;
 		line-height: 82px;
+		text-align: center;
 }
 .header .offer .offer__title {
 		font-size: 40px;
@@ -65,6 +66,7 @@ body {
 		line-height: 19px;
 		font-style: italic;
 		margin-top: 33px;
+		text-align: center;
 }
 
 .footer {
